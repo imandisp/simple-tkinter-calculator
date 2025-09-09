@@ -2,7 +2,6 @@
 
 A basic desktop calculator built using Python and the Tkinter library. It supports simple arithmetic operations like addition, subtraction, multiplication, and division. The calculator also supports keyboard input.
 
-![Screenshot](screenshot.png) <!-- optional: include a screenshot -->
 
 ---
 
